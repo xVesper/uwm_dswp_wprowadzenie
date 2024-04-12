@@ -35,7 +35,7 @@ print(f"{txt} istitle: {txt.istitle()}")
 print(f"{txt} isupper: {txt.isupper()}")
 
 """Zadanie 5"""
-txt = "Tomek"
+txt = "Kacper"
 liczba = 5
 f_liczba = 5.245768943
 duza_liczba = 100000000
