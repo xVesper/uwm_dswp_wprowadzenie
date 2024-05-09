@@ -1,3 +1,3 @@
 # lab_06 
-Tomasz Karkulowski  
-Data Science 2grp 163105
+Kacper  Jasiuczenia
+Data Science 2grp 162370
